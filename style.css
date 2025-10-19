@@ -523,25 +523,6 @@ nav a:focus-visible {
   line-height: 1.6;
 }
 
-.quote {
-  display: flex;
-  flex-direction: column;
-  gap: 1.25rem;
-  font-style: normal;
-}
-
-.quote blockquote {
-  margin: 0;
-  color: var(--text);
-  font-size: 1.05rem;
-  line-height: 1.7;
-}
-
-.quote figcaption {
-  color: var(--muted);
-  font-size: 0.9rem;
-}
-
 .contact-card {
   display: flex;
   flex-direction: column;
